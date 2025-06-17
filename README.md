@@ -1,7 +1,6 @@
 # 🚀 Digital Nurture 4.0 – Java FSE Deep Skilling Hands-On Repository  
 **Candidate Name:** Priyanshu Suryawanshi  
-**SupersetID:** 5992677
-
+**SupersetID:** 5992677                       
 **Program:** Cognizant Digital Nurture 4.0 (Java Full Stack Engineer Track)  
 **Batch:** 2025 
 
@@ -19,7 +18,7 @@ This repository contains all the **mandatory hands-on exercises** completed as p
 ## 🗂️ Folder Structure
 
 ```bash
-DN_4.0_Priyanshu_supersertid/
+DN_4.0_Priyanshu_Suryawanshi_5992677
 │
 ├── Week_01_DesignPatterns_SOLID/
 │   ├── src/
