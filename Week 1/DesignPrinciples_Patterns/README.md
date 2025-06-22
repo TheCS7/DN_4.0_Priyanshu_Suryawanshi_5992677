@@ -4,12 +4,12 @@
 - ✅ Factory Method Pattern
 
 
-## 🧠 Exercise 1: Singleton Pattern
+##  Exercise 1: Singleton Pattern
 
 What We Did
 We created a Logger class that ensures only one instance can ever exist in the entire program.
 
-### 📌 What We Learned:
+###  What We Learned:
 
 - Singleton ensures only one instance of a class is created.
 - Useful for logging, configuration, or database connections.
@@ -18,7 +18,7 @@ We created a Logger class that ensures only one instance can ever exist in the e
   - Static instance variable
   - Static getter method
 
-### ▶️ How to Run:
+###  How to Run:
 
 javac Logger.java
 
@@ -26,7 +26,7 @@ javac Testclass.java
 
 java Testclass
 
-### 🧪 Output:
+### Output:
 
 Logger instance created. 
 
@@ -36,9 +36,9 @@ Same instance? true
 
 [LOg] Test message 2
 
-## 🧠 Exercise 2: Factory Method Pattern
+## Exercise 2: Factory Method Pattern
 
-📌 What We Learned:
+ What We Learned:
 
 Factory Method lets subclasses decide which class to instantiate.
 
@@ -52,13 +52,13 @@ ExcelDocument
 
 Factory classes were used to create these document objects.
 
-### ▶️ How to Run:
+###  How to Run:
 
 javac main/*.java
 
 java -cp . main.Test
 
-### 🧪 Output:
+###  Output:
 
 
 Opening a Word document.
