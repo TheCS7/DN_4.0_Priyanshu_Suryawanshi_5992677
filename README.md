@@ -13,6 +13,9 @@ This repository contains all the **mandatory hands-on exercises** completed as p
 > 🧠 Focused on writing clean, scalable, and testable code.  
 > 📈 Progress is updated weekly to ensure traceability and completion.
 
+
+## Each Folder consists a Word file Documentation
+
 ---
 
 ## 🗂️ Folder Structure
